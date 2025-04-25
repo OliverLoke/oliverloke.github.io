@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   const sentences = [
       " Velkommen til min hjemmeside!",
       " Jeg er en ung Web Udvikler.",
-      " Ejer af ApathyMC.",
+      " Ejer af JellyMC.",
       " Opdateringer kommer."
   ];
 
